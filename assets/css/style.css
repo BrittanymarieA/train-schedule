@@ -1,0 +1,11 @@
+body {
+   background-image: url("../images/background.jpg");
+   color: brown;
+}
+.container{
+    opacity: .6;
+}
+
+.jumbotron{
+    opacity: 1;
+}
